@@ -12,8 +12,8 @@ learning summary
 [4. Tencent 3](https://github.com/ongiao/blog/issues/5)  
 [5. 深圳来来科技](https://github.com/ongiao/blog/issues/6)  
 6. HKTVmall  
-7. PCLab深圳鹏城实验室  
-8. Shopee(Shenzhen Office)  
-9. Bentley System(Shenzhen Office)  
+7. 深圳鹏城实验室  
+8. Shopee
+9. Bentley System 
 10. Pinnacle Enterprise Holdings Limited  
 11. ACT Solutions
