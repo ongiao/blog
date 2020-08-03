@@ -4,7 +4,8 @@ learning summary
 ## Algorithm Basic
 [1. Algorithm Basic 1 Review](https://github.com/ongiao/blog/issues/1)  
 [2. Algorithm Basic 2 Review](https://github.com/ongiao/blog/issues/7)  
-[3. Algorithm Basic 3 Review](https://github.com/ongiao/blog/issues/8)
+[3. Algorithm Basic 3 Review](https://github.com/ongiao/blog/issues/8)  
+[4. Algorithm Basic 4 Review](https://github.com/ongiao/blog/issues/9)
 
 ## Interviews Review
 [1. ByteDance](https://github.com/ongiao/blog/issues/2)  
