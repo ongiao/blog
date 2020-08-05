@@ -7,6 +7,9 @@ learning summary
 [3. Algorithm Basic 3 Review](https://github.com/ongiao/blog/issues/8)  
 [4. Algorithm Basic 4 Review](https://github.com/ongiao/blog/issues/9)
 
+## React Basic
+[1. React Basic 1](https://github.com/ongiao/blog/issues/10)
+
 ## Interviews Review
 [1. ByteDance](https://github.com/ongiao/blog/issues/2)  
 [2. Tencent 1](https://github.com/ongiao/blog/issues/3)  
