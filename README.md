@@ -5,7 +5,10 @@ learning summary
 [1. Algorithm Basic 1 Review](https://github.com/ongiao/blog/issues/1)  
 [2. Algorithm Basic 2 Review](https://github.com/ongiao/blog/issues/7)  
 [3. Algorithm Basic 3 Review](https://github.com/ongiao/blog/issues/8)  
-[4. Algorithm Basic 4 Review](https://github.com/ongiao/blog/issues/9)
+[4. Algorithm Basic 4 Review](https://github.com/ongiao/blog/issues/9)  
+
+## BIS
+[BIS](https://github.com/ongiao/blog/issues/14)
 
 ## React Basic
 [1. React Basic 1](https://github.com/ongiao/blog/issues/10)
