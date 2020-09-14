@@ -11,7 +11,11 @@ learning summary
 [BIS](https://github.com/ongiao/blog/issues/14)  
 
 ## Docker
-[Docker](https://github.com/ongiao/blog/issues/11)
+[Docker](https://github.com/ongiao/blog/issues/11)  
+
+## K8S  
+[K8S glossary](https://github.com/ongiao/blog/issues/13)  
+Follow this step by step: [kube-ladder](https://github.com/caicloud/kube-ladder)
 
 ## React Basic
 [1. React Basic 1](https://github.com/ongiao/blog/issues/10)
