@@ -18,7 +18,8 @@ learning summary
 Follow this step by step: [kube-ladder](https://github.com/caicloud/kube-ladder)
 
 ## React Basic
-[1. React Basic 1](https://github.com/ongiao/blog/issues/10)
+[1. React Basic 1](https://github.com/ongiao/blog/issues/10)  
+[2. React Hook notes](https://github.com/ongiao/blog/issues/15)
 
 ## Interviews Review
 [1. ByteDance](https://github.com/ongiao/blog/issues/2)  
